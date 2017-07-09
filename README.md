@@ -44,7 +44,7 @@ var mascotPath = "themes/ruri-dark/images/mascots/";
 </li>
 <li class="column column_pink"><a>Etc</a>
 <ul>
-<li><a href="http://bakabt.me">Behind Scineces (KAIST STP Magazine)</a></li>
+<li><a href="http://behindsciences.kaist.ac.kr">Behind Scineces (KAIST STP Magazine)</a></li>
 <li><a href="http://www.nyaa.se/">Biography/CV</a></li>
 <li><a href="http://utw.me">Current Works</a></li>
 <li><a href="http://mazuisubs.com">Contact Me</a></li>
