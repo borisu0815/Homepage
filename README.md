@@ -30,7 +30,7 @@ var mascotPath = "themes/ruri-dark/images/mascots/";
 <ul class="columnList">
 <li class="column column_purple"><a>La Casa de la Musica</a>
 <ul>
-<li><a href="https://drive.google.com/folderview?id=0B_VmbVyD4eT3N1VUbGN4Wjd5OVE">My Performance</a></li>
+<li><a href="https://www.youtube.com/channel/UC0bFW1We8ZOYvqJL5CBjOFA">My Performance</a></li>
 <li><a href="https://developer.mozilla.org//">Writing on Music (and Machine)</a></li>
 <li><a href="https://wiki.installgentoo.com/">Archive</a></li>
 </ul>
