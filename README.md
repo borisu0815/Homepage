@@ -17,8 +17,8 @@ var mascotPath = "themes/ruri-dark/images/mascots/";
 <nav>
 <ul class="buttonList">
 <li class="button button_green"><a href="http://github.com/borisu0815">Github</a></li>
-<li class="button button_grey"><a href="#">Wordpress</a></li>
-<li class="button button_grey buttonArrow"><a href="#">La Casa de la Literatura</a>
+<li class="button button_grey"><a href="http://unapromisa.wordpress.com">Wordpress</a></li>
+<li class="button button_grey buttonArrow"><a href="blog.naver.com/avrillinkin">La Casa de la Literatura</a>
 <ul>
 <li><a href="#">Works on NLP(Natural Language Processing)</a></li>
 <li><a href="#">Essays on Literary Works</a></li>
