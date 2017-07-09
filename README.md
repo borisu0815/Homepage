@@ -9,7 +9,7 @@ var mascotPath = "themes/ruri-dark/images/mascots/";
 <script src="js/jquery-2.1.1.min.js" type="text/javascript"></script>
 <script src="js/mascots-control.js" type="text/javascript"></script>
 </p>
-<!-- Random mascot image will be set as background-image by javascript --><header>
+<header>
 <h1>A Room with Views <span class="name-highlight">, Y</span></h1>
 <p class="subtitle">Small Number, Big Ideas</p>
 </header>
@@ -47,7 +47,7 @@ var mascotPath = "themes/ruri-dark/images/mascots/";
 <li><a href="http://behindsciences.kaist.ac.kr">Behind Scineces (KAIST STP Magazine)</a></li>
 <li><a href="http://www.nyaa.se/">Biography/CV</a></li>
 <li><a href="http://utw.me">Current Works</a></li>
-<li><a href="http://mazuisubs.com">Contact Me</a></li>
+<li><a href=""mailto:borisu0815@gmail.com?Subject=Hello%20again" target="_top"">Contact Me</a></li>
 </ul>
 </li>
 </ul>
