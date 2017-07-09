@@ -31,22 +31,22 @@ var mascotPath = "themes/ruri-dark/images/mascots/";
 <li class="column column_purple"><a>La Casa de la Musica</a>
 <ul>
 <li><a href="https://www.youtube.com/channel/UC0bFW1We8ZOYvqJL5CBjOFA">My Performance</a></li>
-<li><a href="https://developer.mozilla.org//">Writing on Music (and Machine)</a></li>
-<li><a href="https://wiki.installgentoo.com/">Archive</a></li>
+<li><a href="#">Writing on Music (and Machine)</a></li>
+<li><a href="#/">Archive</a></li>
 </ul>
 </li>
 <li class="column column_green"><a>La Casa de la Pintura</a>
 <ul>
-<li><a href="http://boards.4chan.org/v/">Video Games</a></li>
-<li><a href="http://boards.4chan.org/vg/">My List of Paintings</a></li>
-<li><a href="http://boards.4chan.org/g/">Paintings and Machine</a></li>
+<li><a href="https://drive.google.com/drive/u/1/my-drive">Video Games</a></li>
+<li><a href="https://drive.google.com/drive/u/1/my-drive">My List of Paintings</a></li>
+<li><a href="https://drive.google.com/drive/u/1/my-drive">Paintings and Machine</a></li>
 </ul>
 </li>
 <li class="column column_pink"><a>Etc</a>
 <ul>
 <li><a href="http://behindsciences.kaist.ac.kr">Behind Scineces (KAIST STP Magazine)</a></li>
-<li><a href="http://www.nyaa.se/">Biography/CV</a></li>
-<li><a href="http://utw.me">Current Works</a></li>
+<li><a href="http://stp.kaist.ac.kr/020302">Biography/CV</a></li>
+<li><a href="https://www.sharelatex.com/project">Current Works</a></li>
 <li><a href="mailto:borisu0815@gmail.com">Contact Me</a></li>
 </ul>
 </li>
