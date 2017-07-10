@@ -49,34 +49,6 @@ var mascotPath = "themes/ruri-dark/images/mascots/";
 <li><a href="https://www.sharelatex.com/project">Current Works</a></li>
 <li><a href="mailto:borisu0815@gmail.com">Contact Me</a></li>
 </ul>
-script>
-    var contactForm = document.querySelector('form'),
-    inputEmail = contactForm.querySelector('[name="email"]'),
-    textAreaMessage = contactForm.querySelector('[name="content"]'),
-    sendButton = contactForm.querySelector('button');
-    sendButton.addEventListener('click', function(event){
-      event.preventDefault();
-      sendButton.innerHTML = '{{ site.text.contact.ajax.sending }}';
-      var xhr = new XMLHttpRequest();
-      xhr.open('POST', '//formspree.io/{{ site.email }}', true);
-      xhr.setRequestHeader("Accept", "application/json")
-      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded")
-      xhr.send(
-        "email=" + inputEmail.value +
-        "&message=" + textAreaMessage.value);
-      xhr.onloadend = function (res) {
-        if (res.target.status === 200){
-          sendButton.innerHTML = '{{ site.text.contact.ajax.sent }}';
-        }
-        else {
-          sendButton.innerHTML = '{{ site.text.contact.ajax.error }}';
-        }
-      }
-    });
-</script>
-
-
-
 </li>
 </ul>
 </nav>
